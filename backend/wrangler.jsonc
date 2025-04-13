@@ -7,11 +7,11 @@
   //   "nodejs_compat"
   // ],
   "vars": {
-    "DATABASE_URL":"prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNzAyYWM5ZTAtYzk5Yy00NzM5LTk1N2EtNGY0Nzc0M2ZhOTRjIiwidGVuYW50X2lkIjoiNzZjNzJjMWRiYzljOTkwOWFiNDFiYjIwMmQ2OWM0YTE1ZDQ3NTVjNjVhMzdjYjIxMjFiNDQ4MzUxNmIxZThlZSIsImludGVybmFsX3NlY3JldCI6IjNjODgzMjUzLWFmYjctNGE1Ni1hYmNiLWIwNWMxYjBkNWIxMyJ9.YxnDAW5OYzlnNXfyilvuSqTVLb68m6kmsDz65omoNkk",
+    "DATABASE_URL":"",
 
-    "JWT_SECRET":"YjIxMjFiNDQ4MzUxNmIxZThlZSIsImludGVybmFsX3NlY3JldCI6IjNjODgzMjUzLWFmYjct",
+    "JWT_SECRET":"",
 
-    "SECRET": "MjUzLWFmYjctNGE1Ni1hYmNiLWIwNWMxYjBkNWIxMyJ9"
+    "SECRET": ""
 
 
   },
