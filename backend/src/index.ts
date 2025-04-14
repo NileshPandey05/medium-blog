@@ -17,10 +17,8 @@ const app = new Hono<{
   }
 }>()
 
-app.use(
-  cors({
-    origin: "http://127.0.0.1.8787/"
-  })
+app.use("/*",
+  cors()
 )
 
 
